@@ -1,0 +1,6 @@
+Coordinate alignment: |γ_h^(l)[d]| — massive vs other
+  Layers 4–11 (1-indexed), 12 heads
+  Massive indices: [138, 378, 447]
+
+  Massive coords — mean: 1.3695  std: 1.2750  median: 1.0923
+  Other coords   — mean: 0.1757  std: 0.2127  median: 0.1237

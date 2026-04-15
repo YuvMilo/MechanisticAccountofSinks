@@ -1,0 +1,11 @@
+intervention,score
+Baseline,0.54
+No Query Bias,0.24
+Remove First PE,0.02
+Swap EPE,0.03
+Swap PE,0.54
+Nullify BOS Token,0.54
+No MLP,0.31
+No PE,0.08
+Zero Top-3 Wk,0.34
+Zero Random Wk,0.54

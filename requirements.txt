@@ -1,0 +1,8 @@
+torch==2.10.0
+transformers==5.3.0
+matplotlib==3.10.8
+numpy==2.4.3
+pandas==3.0.1
+scikit-learn==1.8.0
+tqdm==4.67.3
+datasets==4.8.4

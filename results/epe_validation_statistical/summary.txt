@@ -1,0 +1,96 @@
+EPE validation (MLP-only): cos(EPE_i, R_i - O_i)
+  300 sentences, 40 positions
+  Global min:    0.6679
+  Global median: 0.8473
+  Global max:    0.9975
+
+Per-position median (p50):
+  pos   0: 0.9962
+  pos   1: 0.8251
+  pos   2: 0.8345
+  pos   3: 0.8556
+  pos   4: 0.8685
+  pos   5: 0.8689
+  pos   6: 0.8665
+  pos   7: 0.8598
+  pos   8: 0.8631
+  pos   9: 0.8571
+  pos  10: 0.8537
+  pos  11: 0.8546
+  pos  12: 0.8501
+  pos  13: 0.8513
+  pos  14: 0.8482
+  pos  15: 0.8421
+  pos  16: 0.8438
+  pos  17: 0.8487
+  pos  18: 0.8452
+  pos  19: 0.8484
+  pos  20: 0.8492
+  pos  21: 0.8517
+  pos  22: 0.8550
+  pos  23: 0.8545
+  pos  24: 0.8530
+  pos  25: 0.8542
+  pos  26: 0.8504
+  pos  27: 0.8495
+  pos  28: 0.8470
+  pos  29: 0.8488
+  pos  30: 0.8436
+  pos  31: 0.8404
+  pos  32: 0.8385
+  pos  33: 0.8336
+  pos  34: 0.8302
+  pos  35: 0.8274
+  pos  36: 0.8282
+  pos  37: 0.8218
+  pos  38: 0.8262
+  pos  39: 0.8221
+
+EPE validation (Full first layer): cos(EPE_i, R_i - O_i)
+  300 sentences, 40 positions
+  Global min:    0.1987
+  Global median: 0.3230
+  Global max:    0.8684
+
+Per-position median (p50):
+  pos   0: 0.7569
+  pos   1: 0.3442
+  pos   2: 0.3397
+  pos   3: 0.3399
+  pos   4: 0.3233
+  pos   5: 0.3257
+  pos   6: 0.3256
+  pos   7: 0.3203
+  pos   8: 0.3234
+  pos   9: 0.3233
+  pos  10: 0.3258
+  pos  11: 0.3253
+  pos  12: 0.3260
+  pos  13: 0.3275
+  pos  14: 0.3304
+  pos  15: 0.3372
+  pos  16: 0.3277
+  pos  17: 0.3398
+  pos  18: 0.3322
+  pos  19: 0.3374
+  pos  20: 0.3323
+  pos  21: 0.3355
+  pos  22: 0.3297
+  pos  23: 0.3304
+  pos  24: 0.3281
+  pos  25: 0.3223
+  pos  26: 0.3174
+  pos  27: 0.3152
+  pos  28: 0.3199
+  pos  29: 0.3159
+  pos  30: 0.3160
+  pos  31: 0.3132
+  pos  32: 0.3069
+  pos  33: 0.3136
+  pos  34: 0.3130
+  pos  35: 0.3130
+  pos  36: 0.3057
+  pos  37: 0.3018
+  pos  38: 0.3011
+  pos  39: 0.2963
+

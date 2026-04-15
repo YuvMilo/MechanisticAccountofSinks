@@ -1,0 +1,22 @@
+Baseline	0.42
+No Query Bias	0.19
+Remove First PE	0.02
+Swap EPE	0.04
+Swap PE	0.42
+Nullify BOS Token	0.42
+No MLP	0.26
+No PE	0.07
+Zero Top-3 Wk	0.27
+Zero Random Wk	0.42
+
+relative (% of baseline)
+Baseline	100.0%
+No Query Bias	46.2%
+Remove First PE	4.8%
+Swap EPE	8.7%
+Swap PE	100.0%
+Nullify BOS Token	99.9%
+No MLP	62.3%
+No PE	16.0%
+Zero Top-3 Wk	65.2%
+Zero Random Wk	100.0%
